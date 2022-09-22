@@ -1,7 +1,7 @@
 <?php
 /**
-* @author Rifqi Haidar [Recoded By F0xBase]
-* @package FACEBOOK CHECKER
+* @author Rifqi Haidar [Coded By Slim Shady]
+* @package FACEBOOK Fucka
 */
 $kuning = "\e[1;33m";
 $cyan = "\e[1;96m";
@@ -10,7 +10,7 @@ echo "$cyan+------------------------------------------------+
   ╔═╗┌─┐┌─┐┌─┐┌┐ ┌─┐┌─┐┬┌─  ┌─┐┬ ┬┌─┐┌─┐┬┌─┌─┐┬─┐
   ╠╣ ├─┤│  ├┤ ├┴┐│ ││ │├┴┐  │  ├─┤├┤ │  ├┴┐├┤ ├┬┘
   ╚  ┴ ┴└─┘└─┘└─┘└─┘└─┘┴ ┴  └─┘┴ ┴└─┘└─┘┴ ┴└─┘┴└─
-    ".date("Y-m-d H:i:s")."     FACEBOOK CHECKER
+    ".date("Y-m-d H:i:s")."     FACEBOOK CHECKER Coded by Shady
 
 +------------------------------------------------+ \n\n";
 
